@@ -7,7 +7,7 @@
 </div>
 
 # Yo-Kai Watch 4++ Traduccion al español
-Juego siendo traducido de manera manual desde la versión traducida al ingles.
+Juego siendo traducido de manera manual desde la versión traducida al inglés.
 # Importante
 Este proyecto aún está en proceso, si encuentras algún error o algo que se deba arreglar abre un [**issue**](https://github.com/REY3DS/YKW4_ES/issues).
 
@@ -21,6 +21,7 @@ En el directorio de datos de Ryujinx:
  - `C:\users\{USERNAME}\AppData\Roaming\Ryujinx` en **Windows**.
 
 Lo más probable es que la carpeta donde se necesiten poner los datos sea en `{...Ryujinx}/mods/contents/010086c00af7c000/`
+En versiones actuales, puede usarse desde {...Ryujinx}/sdcard/atmosphere/contents/010086c00af7c000/`
 
 ### Switch
 Para Atmosphere: `Atmosphere/contents/010086c00af7c000`
